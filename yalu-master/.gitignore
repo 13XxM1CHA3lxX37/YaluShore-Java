@@ -1,0 +1,7 @@
+vmmd
+kdump6
+dyld.thin
+tmp/**
+main
+.DS_Store
+magic.dylib
